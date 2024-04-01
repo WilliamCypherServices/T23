@@ -1,2 +1,2 @@
-some = input("Get some:")
-print("Got:", some)
+some_more = input("Get some more:")
+print("Got:", some_more)
