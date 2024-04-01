@@ -1,1 +1,2 @@
-print("Git is awesome!")
+some = input("Get some:")
+print("Got:", some)
